@@ -1,0 +1,33 @@
+.theme--light.v-label
+{
+    font-family: 'DroidArabicKufiRegular';
+    right: 0px !important;
+    left: auto !important;
+}
+.v-messages__message{
+    text-align: right !important;
+    font-family: 'DroidArabicKufiRegular';
+}
+
+
+.dodo
+{
+    font-family: 'DroidArabicKufiRegular';
+}
+
+
+.booked
+{
+    background-color: darkcyan;
+    
+}
+.unbooked
+{
+    background-color: green;
+}
+
+.maintenance
+{
+    background-color: red;
+}
+
